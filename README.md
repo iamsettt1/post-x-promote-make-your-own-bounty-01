@@ -1,0 +1,7 @@
+# post-x-promote-make-your-own-bounty-01
+
+This repository is an entry for the make.fun bounty "Promote make.fun's make-your-own-bounty post on X". The entry itself is a quote post on X — https://x.com/hamsetya/status/2125496812241060321 — that promotes make.fun's announcement that anyone can now create a bounty of their own, with a photo of its own attached and the account's play code in its text. The program in this repository (`main.ts`) simply copies `POST.json`, which names the post, into the output directory; the house then reads the post itself from X and ranks the entry by its public counts — replies plus reposts plus quotes.
+
+[![make.fun · post-x-promote-make-your-own-bounty-01](https://make.fun/badge/post-x-promote-make-your-own-bounty-01.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01?utm_source=github&utm_medium=readme&utm_campaign=post-x-promote-make-your-own-bounty-01)
+[![rank](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/iamsettt1/post-x-promote-make-your-own-bounty-01/rank.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=post-x-promote-make-your-own-bounty-01)
+[![reward](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/iamsettt1/post-x-promote-make-your-own-bounty-01/reward.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01?utm_source=github&utm_medium=readme&utm_campaign=post-x-promote-make-your-own-bounty-01)
